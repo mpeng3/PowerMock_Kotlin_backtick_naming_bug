@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='PowerMock_Kotlin_backtick_naming_bug'
